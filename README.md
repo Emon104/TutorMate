@@ -67,7 +67,7 @@ process for both sides.
 
 ## Design & Demo
 
-- 🎨 **Figma Prototype:** [View Interactive Prototype]([https://www.figma.com/proto/3bj4lxcZUEdRxB1cjjGK9V/TutorMate-UI-Design?node-id=203-1661&p=f&t=pti3Ee5tNmJQ8okw-1&scaling=scale-down&content-scaling=responsive&page-id=3%3A15&starting-point-node-id=27%3A53](https://www.figma.com/proto/3bj4lxcZUEdRxB1cjjGK9V/TutorMate-UI-Design?node-id=27-53&p=f&t=aPFytTvkS7g3Qdrh-1&scaling=scale-down&content-scaling=fixed&page-id=3%3A15&starting-point-node-id=27%3A53))
+- 🎨 **Figma Prototype:** [View Interactive Prototype](https://www.figma.com/proto/3bj4lxcZUEdRxB1cjjGK9V/TutorMate-UI-Design?node-id=27-53&p=f&t=aPFytTvkS7g3Qdrh-1&scaling=scale-down&content-scaling=fixed&page-id=3%3A15&starting-point-node-id=27%3A53)
 - 🎬 **Demo Video:** [Watch on YouTube](https://youtu.be/wP5_nZM-7ps)
 
 ---
