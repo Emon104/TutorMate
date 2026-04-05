@@ -61,7 +61,7 @@ process for both sides.
 > Full prototype flow designed in Figma — showing all screens and
 > navigation connections.
 
-![TutorMate Figma Flow](./designs/flow.png)
+![TutorMate Figma Flow](./designs/flow.jpg)
 
 ---
 
