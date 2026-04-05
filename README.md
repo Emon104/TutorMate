@@ -61,7 +61,7 @@ process for both sides.
 > Full prototype flow designed in Figma — showing all screens and
 > navigation connections.
 
-![TutorMate Figma Flow](./designs/flow.jpg)
+![TutorMate Figma Flow](flow.jpg)
 
 ---
 
@@ -89,10 +89,9 @@ process for both sides.
 
 ## Credits
 
-> Designed by [Your Name]
-> [Your University Name], [Year]
+> Designed by Ali Hasan
 
 ---
 
-> This is an academic project. The design is partially complete.
+> The design is partially complete.
 > API integrations are planned for future development.
